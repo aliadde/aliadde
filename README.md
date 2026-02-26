@@ -19,31 +19,56 @@
   <img alt="JSON" src="https://img.shields.io/badge/-JSON-5E5E5E?style=flat-square&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
 
+<br>
+<h1 align="center">🧬 Hi, I'm a Backend Student Developer</h1>
 
-
-
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
-  <img alt="Unknown" src="https://img.shields.io/badge/-Unknown-808080?style=flat-square&logo=dependabot&logoColor=white" />
+<p align="center">
+Backend developer | Python & Django enthusiast | Linux lover 🐧
 </p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 I am currently a student and learning new technologies every day.  
+- 🐍 Working mainly with **Python** and **Django** for backend development.  
+- 🐧 Linux is my primary environment (LPIC-1 certified from Anisa company - Iran).  
+- 🌍 Currently spending more time learning **German language**, so my coding activity may be a bit low for now — but my brain is still compiling ideas in the background 😄  
+
+My main goal is to become a professional backend developer and build large, scalable, and reliable systems that can handle real-world demands with strong performance and clean architecture.
+
+
+---
+## 🛠️ Tech Stack
+
+<p align="center">
+
+🐍 Python      • ⚡ Django        • 🐧 Linux       • 🔧 Git        • 🖥️ VS Code
+
+</p>
+
+
+---
+
+## 🧠 Learning Goals
+
+- Become a professional Backend Developer  
+- Improve system design knowledge  
+- Continue contributing to open source projects in the future  
+- Reach B2 level in German language learning 📚  
+
+---
+
+## ⚡ Fun Fact
+
+Sometimes learning languages feels like debugging:
+- German grammar = segmentation fault sometimes 😄  
+
+But persistence is the best compiler optimization.
+
+
+
+
 
 
 
