@@ -39,14 +39,24 @@ My main goal is to become a professional backend developer and build large, scal
 
 
 ---
-## 🛠️ Tech Stack
+## 🧠 My Tech Stack
 
 <p align="center">
 
-🐍 Python      • ⚡ Django        • 🐧 Linux       • 🔧 Git        • 🖥️ VS Code
+🔹 **Languages:**  
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+🔹 **Backend:**  
+<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+
+🔹 **Platform:**  
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+
+🔹 **Tools:**  
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
 </p>
-
 
 ---
 
