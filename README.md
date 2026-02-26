@@ -55,4 +55,27 @@
 I use **Linux as my main operating system** and enjoy its **flexibility**, **stability**, and the beauty of the open-source world. 🚀 😎 
 
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+
+<p align="center">
+
+  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+    <img width="390"
+      src="https://streak-stats.demolab.com/?user=aliadde&theme=react&border=61dafb&hide_border=true"
+      alt="streak stats" />
+  </a>
+
+</p>
+
+<br>
+
+<p align="center">
+  <img width="100%"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=aliadde&theme=react-dark&bg_color=20232a&hide_border=true"/>
+</p>
+
+<hr>
+
+
 
