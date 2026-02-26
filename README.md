@@ -2,7 +2,7 @@
 
 
 <p>Welcome to my page! </br> I'm Ali, Backend developer. </p>
-<h3>Things I code with</h3>
+<h3>Technologies I’ve worked with<h3>
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/-Django-8DD6F9?style=flat-square&logo=django&logoColor=white" /> 
