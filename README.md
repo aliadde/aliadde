@@ -23,7 +23,7 @@
 <h1 align="center">🧬 Hi, I'm a Backend Student Developer</h1>
 
 <p align="center">
-Backend developer | Python & Django enthusiast | Linux lover 🐧
+Backend developer | Python , FastAPI, Flask, Django enthusiast | Linux lover 🐧
 </p>
 
 ---
@@ -31,7 +31,7 @@ Backend developer | Python & Django enthusiast | Linux lover 🐧
 ## 🚀 About Me
 
 - 🎓 I am currently a student and learning new technologies every day.  
-- 🐍 Working mainly with **Python** and **Django** for backend development.  
+- 🐍 Working mainly with **Python** , **FastAPI** and **Flask**  for backend development.  
 - 🐧 Linux is my primary environment (LPIC-1 certified from Anisa company - Iran).  
 - 🌍 Currently spending more time learning **German language**, so my coding activity may be a bit low for now — but my brain is still compiling ideas in the background 😄  
 
