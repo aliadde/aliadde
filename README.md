@@ -11,7 +11,7 @@
 <p>
   <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-092E20?style=flat-square&logo=FastAPI&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
   <img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black" />
   <img alt="SeleniumBase" src="https://img.shields.io/badge/-SeleniumBase-1f425f?style=flat-square&logo=python&logoColor=white" />
@@ -47,7 +47,7 @@ My main goal is to become a professional backend developer and build large, scal
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
 🔹 **Backend:**  
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+<img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-092E20?style=flat-square&logo=FastAPI&logoColor=white" />
 
 🔹 **Platform:**  
 <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
@@ -55,6 +55,7 @@ My main goal is to become a professional backend developer and build large, scal
 🔹 **Tools:**  
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white"/>
 
 </p>
 
