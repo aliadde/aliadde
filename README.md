@@ -18,7 +18,7 @@
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="JSON" src="https://img.shields.io/badge/-JSON-5E5E5E?style=flat-square&logoColor=white" />
   <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-
+  <img alt="Telethon" src="https://img.shields.io/badge/-Telethon-2CA5E0?style=flat-square&logo=telegram&logoColor=white" />
 <br>
 <h1 align="center">🧬 Hi, I'm a Backend Student Developer</h1>
 
