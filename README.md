@@ -98,16 +98,16 @@ But persistence is the best compiler optimization.
 I use **Linux as my main operating system** and enjoy its **flexibility**, **stability**, and the beauty of the open-source world. 🚀 😎 
 
 
+<br>
+
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 
 <p align="center">
-
-  <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-    <img width="390"
-      src="https://streak-stats.demolab.com/?user=aliadde&theme=react&border=61dafb&hide_border=true"
-      alt="streak stats" />
-  </a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=aliadde&show_icons=true&theme=radical">
+  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=aliadde&show_icons=true&theme=default">
+</picture>
 
 </p>
 
