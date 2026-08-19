@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <strong>Backend Developer | Python, FastAPI, Flask & Django | Linux enthusiast 🐧</strong>
+  <strong>Backend Developer | Python, FastAPI & Flask  | Linux enthusiast 🐧</strong>
 </p>
 
 ---
@@ -20,7 +20,7 @@ I'm a **Backend Developer** focused on building reliable APIs, backend systems, 
 
 My main areas of interest are **backend development, automation, and Linux**. I enjoy solving problems, simplifying repetitive tasks, and building useful tools that turn complex workflows into simple and efficient solutions.
 
-I'm mainly working with **Python, FastAPI, Flask, and Django**, while also exploring automation, web scraping, and Linux systems. Linux is a major part of my daily development environment, and I'm a strong believer in **open-source software**.
+I'm mainly working with **Python, FastAPI and Flask**, while also exploring automation, web scraping, and Linux systems. Linux is a major part of my daily development environment, and I'm a strong believer in **open-source software**.
 
 I'm highly interested in **problem solving, self-learning, attention to detail, and understanding how systems work under the hood**. My long-term goal is to grow into a **Senior Python Backend Developer** and build scalable, maintainable, and reliable software.
 
@@ -43,8 +43,6 @@ I'm highly interested in **problem solving, self-learning, attention to detail, 
 ### Backend & Frameworks
 
 <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-
-<img alt="Django" src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white" />
 
 <img alt="Flask" src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 
@@ -114,16 +112,15 @@ A backend application for managing job applications, companies, interviews, and 
 
 **Tech:** Python · FastAPI · PostgreSQL · SQLAlchemy · Alembic · Docker
 
-> 🚧 Currently in development
+> 🚧 [Link to project](https://github.com/aliadde/job-tracker-api)
 
 ---
-
 ## 🧠 Currently Learning
 
 * Advanced Backend Development with Python
 * Software Architecture & System Design
-* Linux Systems & Administration
-* Cybersecurity & Bug Bounty
+* API Design & Backend Engineering
+* Database Design & Optimization
 
 ---
 
@@ -136,18 +133,10 @@ Linux is an important part of my development workflow, and I continuously explor
 
 <br>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡ Status ⚡</h2>
 <br>
 
-<p align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-fast.vercel.app/api?username=aliadde&show_icons=true&theme=radical">
-  <img alt="GitHub stats" src="https://github-readme-stats-fast.vercel.app/api?username=aliadde&show_icons=true&theme=default">
-</picture>
 
-</p>
-
-<br>
 
 <p align="center">
   <img width="100%"
