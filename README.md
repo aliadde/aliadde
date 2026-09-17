@@ -138,10 +138,10 @@ Linux is an important part of my development workflow, and I continuously explor
 
 
 
-<p align="center">
+<!-- <p align="center">
   <img width="100%"
     src="https://github-readme-activity-graph.vercel.app/graph?username=aliadde&theme=react-dark&bg_color=20232a&hide_border=true"/>
-</p>
+</p> -->
 
 <hr>
 
