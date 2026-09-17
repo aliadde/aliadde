@@ -133,8 +133,8 @@ Linux is an important part of my development workflow, and I continuously explor
 
 <br>
 
-<h2 align="center">⚡ Status ⚡</h2>
-<br>
+<!-- <h2 align="center">⚡ Status ⚡</h2>
+<br> -->
 
 
 
